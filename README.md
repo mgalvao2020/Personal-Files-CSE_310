@@ -12,7 +12,7 @@ that will be applied on potato farms
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/79TAMNijtOE)
 
 # Development Environment
 
@@ -21,13 +21,12 @@ Tools and library used: "try / except", math functions, and I used the following
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3 Schools](https://www.w3schools.com/python/)
 * [Python.org](https://wiki.python.org/moin/BeginnersGuide)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * Item 1: Improve the GUI to show the average
 * Item 2: Improve the explanation on the video
 * Item 3: Fix the output of the average in the user range
