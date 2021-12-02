@@ -1,32 +1,34 @@
 # Overview
 
-As a software engineer to further my learning I am trying to work on reading files,
-extrac data to work on, calculate things and display results.
+{To further my learning as a software engineer I am trying to run a webb application and modify the css style in different ways.}
 
-Description of the software:
-This software will read a database and calculate averages of temperature
-I will also to display a graph in a GUI
+{It is a webb calculator. To start a test server on my computer I run it in Google Chrome so that the site can open up quickly}
 
-The purpose of this software is to prepare the way ahead for a prediction software
-that will be applied on potato farms
+{My purpose writing thi app was to try different styles and visual adaptations}
 
+{}
 
+[Software Demo Video](https://youtu.be/9p3AjvfryCk)
 
-[Software Demo Video](https://youtu.be/79TAMNijtOE)
+# Web Pages
+
+{There is one webpage that runs the whole application}
 
 # Development Environment
 
-Tools and library used: "try / except", math functions, and I used the following libraries: pandas, matplotlib, math
+{I used Python to code the files html and css}
 
+{The programming language that I used was javascript}
 
 # Useful Websites
 
-* [W3 Schools](https://www.w3schools.com/python/)
-* [Python.org](https://wiki.python.org/moin/BeginnersGuide)
+{Make a list of websites that you found helpful in this project}
+* [Codecademy](https://www.codecademy.com/learn/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet)
+* [W3schools](https://www.w3schools.com/html/html_css.asp)
 
 # Future Work
 
-
-* Item 1: Improve the GUI to show the average
-* Item 2: Improve the explanation on the video
-* Item 3: Fix the output of the average in the user range
+{List of things to improve in the future.}
+* Add sound
+* Add animation when the button is pressed
+* Add more math functions
